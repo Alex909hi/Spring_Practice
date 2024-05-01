@@ -1,3 +1,5 @@
+What is the function of this telegram bot?
+
 When a group of people are going to dine together in a restaurant, there are cases when,
 after paying for all the ordered dishes, the receipt shows only the total amount for the whole group.
 And sometimes it is not convenient, because everyone has to pay you for the dishes they ordered,
